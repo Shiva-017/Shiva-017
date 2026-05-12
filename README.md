@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Software Engineer · AI & LLM Systems · Boston, MA</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiva-017&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-017" />
   <a href="https://linkedin.com/in/shiva-teja-dasi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://shivadasi.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:shivatejadasi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
